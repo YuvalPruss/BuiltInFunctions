@@ -1,0 +1,12 @@
+$main-color: rgb(255,255,255);
+$background-color: rgb(255,255,255);
+
+//bower:sccs
+@import "bower_components/bootstrap/scss/bootstrap.scss";
+// endbower
+
+html, body {
+    height: 100%;
+    width: 100%;
+    background: $background-color;
+}
