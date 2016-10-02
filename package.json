@@ -1,0 +1,19 @@
+{
+  "name": "built-in-fucntion-python",
+  "version": "1.0.0",
+  "description": "Site about python built-in functions in Hebrew",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuvalPruss/BuiltInFunctions.git"
+  },
+  "author": "Yuval Pruss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuvalPruss/BuiltInFunctions/issues"
+  },
+  "homepage": "https://github.com/YuvalPruss/BuiltInFunctions#readme"
+}

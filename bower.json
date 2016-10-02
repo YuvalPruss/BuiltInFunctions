@@ -1,0 +1,20 @@
+{
+  "name": "built-in-fucntion-python",
+  "description": "Site about python built-in functions in Hebrew",
+  "main": "index.js",
+  "authors": [
+    "Yuval Pruss"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/YuvalPruss/BuiltInFunctions",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
